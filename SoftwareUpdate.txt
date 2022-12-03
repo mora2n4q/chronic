@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
