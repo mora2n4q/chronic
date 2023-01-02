@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
