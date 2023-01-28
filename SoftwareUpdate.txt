@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
