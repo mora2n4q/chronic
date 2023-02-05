@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
