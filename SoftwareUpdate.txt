@@ -1,1 +1,1 @@
-update requirements.txt
+Avoid creating -hub dir without processing images (#8334)
