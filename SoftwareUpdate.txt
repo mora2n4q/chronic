@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
