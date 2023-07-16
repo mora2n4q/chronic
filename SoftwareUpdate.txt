@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Clean up unused imgsz (#7771)
