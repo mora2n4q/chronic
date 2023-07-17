@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add HUB-SDK docs (#7775)
