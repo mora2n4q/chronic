@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Improve Coral Edge TPU guide (#8160)
