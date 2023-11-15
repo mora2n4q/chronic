@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
