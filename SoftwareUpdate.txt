@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+OpenVino 2024.0.0 (#8726)
