@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Updating a typo on paddlepaddle.md (#9108)
