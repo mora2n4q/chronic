@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Resize angle, count, and stage on keypoint number change (#7598)
