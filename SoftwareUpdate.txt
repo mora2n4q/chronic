@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Fix OpenVINO missing batch-size bug (#9264)
